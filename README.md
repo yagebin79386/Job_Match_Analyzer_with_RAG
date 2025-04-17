@@ -26,7 +26,7 @@ To add your own screenshot:
 2. Replace the placeholder URL below with: ./images/job_analysis_example.png
 -->
 
-![Job Match Analysis Example](https://i.imgur.com/YOURIMAGEIDHere.png)
+![Job Match Analysis Example](https://github.com/yagebin79386/Job_Match_Analyzer_with_RAG/blob/6848803a8ba91768cee1cc6942e304ef643a5cb7/job_collection_sample.png)
 
 The system delivers comprehensive job analyses that include:
 - Overall match score (e.g., 9.0/10)
