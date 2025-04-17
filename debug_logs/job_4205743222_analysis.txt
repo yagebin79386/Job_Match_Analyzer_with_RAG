@@ -1,0 +1,29 @@
+=== Job: Systems Engineer, IRIS2 Constellation Simulations at SES Satellites ===
+
+=== GPT Analysis ===
+
+1. Score: This is subjective and will depend on the individual. For a Systems Engineer with the required qualifications and experience, who is interested in working in the satellite and telecommunications sector in Luxembourg, this could score highly, for example, 8/10.
+
+2. Key Strengths and Weaknesses: 
+   - Strengths include the opportunity to work on a major European Union project in a multicultural and diverse environment. The job offers a great scope for applying a wide range of skills, from data science to software development and system modeling.
+   - Weaknesses could include the requirement for a “SECRET” security clearance, which may be a barrier for some candidates. The requirement to work at least 66% onsite may also be a deterrent for those preferring remote work.
+
+3. Specific Requirements: 
+   - The job requires a Bachelor/Master’s degree in a relevant field, a minimum of 3 years of experience with modelling complex systems and coding, experience handling large datasets, developing UI & associated front-end software, and a solid background in data science practices.
+   - If a candidate does not meet these requirements, they may struggle to perform effectively in this role.
+
+4. Company Culture and Work Environment Insights:
+   - SES Satellites appears to value diversity and inclusivity, which suggests a supportive work environment for people of all backgrounds. The company is involved in high-profile international projects, which suggests a dynamic and innovative culture.
+
+5. Career Growth and Development Opportunities:
+   - The detailed job description suggests plenty of opportunities for learning and professional development. The employee may gain valuable experience working on a large-scale EU project and in a multi-disciplinary team.
+
+6. Compensation and Benefits Analysis:
+   - The job posting does not provide specific details about salary or benefits. The candidate should research the company’s typical compensation packages or inquire during the interview process.
+
+7. Application Competitiveness:
+   - The posting invites the first 25 applicants, suggesting a potentially competitive application process. However, the specific requirements and security clearance may limit the number of qualified applicants.
+
+8. Final Recommendation and Next Steps:
+   - If a candidate meets the qualifications and is interested in the job, they should apply as soon as possible due to the potential competition. Prior to applying, they could seek more information about the compensation package and possibly reach out to current employees for insights into the company culture.
+
